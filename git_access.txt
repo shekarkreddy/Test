@@ -1,0 +1,46 @@
+c2e50c42afff41fa9cf4f3aaa73fd4bdec59434a
+
+
+all features token:
+dc382a8979fa410fe27e36c7019045ebd0b23a2d
+
+user name : admin
+
+jenkins administrator password : 36220203932b41409666365224b3eddf
+
+
+
+C:\Program Files\nodejs\node_modules\npm;C:\Users\REDDY'S\AppData\Roaming\npm
+
+s
+http://localhost:8080/login?from=%2F
+
+
+
+postman:
+https://app.getpostman.com/join-team?invite_code=6549588736c2232798551f35a4fcfaaa
+
+
+C:\Program Files\Jenkins\workspace\testing1>npm run api-test 
+> postman@1.0.0 api-test C:\Program Files\Jenkins\workspace\testing1
+> newman run test/sample1.postman_collection.json
+
+'newman' is not recognized as an internal or external command,
+operable program or batch file.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! postman@1.0.0 api-test: `newman run test/sample1.postman_collection.json`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the postman@1.0.0 api-test script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Windows\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2020-05-03T19_04_13_151Z-debug.log
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+ERROR: script returned exit code 1
+Finished: FAILURE
