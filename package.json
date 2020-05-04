@@ -4,7 +4,7 @@
   "description": "sample test",
   "main": "index.js",
   "directories": {
-    "test": "test"
+    "test": "my first test"
   },
   "scripts": {
     "api-test": "newman run test/sample1.postman_collection.json",
